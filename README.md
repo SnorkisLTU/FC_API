@@ -12,7 +12,7 @@ cd FC_API
 ```
 Build Docker Image:
 ```
-docker build -t fc_api .
+docker build -f FootballClubs/Dockerfile -t fc_api .
 ```
 Run Docker Container
 ```
