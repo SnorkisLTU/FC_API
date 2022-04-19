@@ -4,7 +4,7 @@
 
 Clone Git Repository:
 ```
-git clone https://https://github.com/SnorkisLTU/FC_API
+git clone https://github.com/SnorkisLTU/FC_API
 ```
 Change Directory:
 ```
