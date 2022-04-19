@@ -16,5 +16,5 @@ docker build -f FootballClubs/Dockerfile -t fc_api .
 ```
 Run Docker Container
 ```
-docker run -it --rm -p 5000:5000 fc_api
+docker run -it --rm -p 80:80 fc_api
 ```
