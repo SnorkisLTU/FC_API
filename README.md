@@ -18,3 +18,7 @@ Run Docker Container
 ```
 docker run -it --rm -p 80:80 fc_api
 ```
+Run it on Internet as localhost
+```
+localhost/swagger
+```
